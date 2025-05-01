@@ -1,13 +1,13 @@
 # Datatypes-Character Literal in Python
 
-## 🎯 Aim
+## Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
 
-## 🧠 Algorithm
+##  Algorithm
 1. Print the character `'T'`.
 2. Print the character `'a'`.
 
-## 🧾 Program
+## Program
 
 ```python
 t_char = chr(84)
